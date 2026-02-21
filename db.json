@@ -8,7 +8,99 @@
     {
       "id": 2,
       "name": "Sebastián",
-      "cards": [0, 6, 4]
+      "cards": [3, 6, 4]
+    }, {
+      "id": 3,
+      "name": "Mateo",
+      "cards": [14, 502, 78]
+    },
+
+    {
+
+      "id": 4,
+      "name": "Camila",
+      "cards": [121, 9, 643]
+    },
+    {
+
+      "id": 5,
+      "name": "Santiago",
+      "cards": [33, 810, 156]
+
+
+    },
+    {
+      "id": 6,
+      "name": "Valentina",
+      "cards": [442, 21, 700]
+    },
+
+    {
+      "id": 7,
+      "name": "Nicolás",
+      "cards": [5, 389, 212]
+    },
+
+    {
+      "id": 8,
+      "name": "Sofía",
+      "cards": [671, 12, 45]
+    },
+
+    {
+      "id": 9,
+      "name": "Lucas",
+      "cards": [99, 554, 821]
+    },
+
+    {
+
+
+      "id": 10,
+      "name": "Isabella",
+      "cards": [310, 2, 198]
+    },
+
+    {
+      "id": 11,
+      "name": "Felipe",
+      "cards": [56, 723, 11]
+    },
+
+    {
+      "id": 12,
+      "name": "Mariana",
+      "cards": [404, 88, 617]
+    },
+
+    {
+      "id": 13,
+      "name": "Daniel",
+      "cards": [1, 256, 732]
+    },
+
+    {
+      "id": 14,
+      "name": "Tomás",
+      "cards": [500, 34, 129]
+    },
+
+    {
+      "id": 15,
+      "name": "Alejandro",
+      "cards": [777, 412, 18]
+    },
+
+    {
+      "id": 16,
+      "name": "Gabriela",
+      "cards": [23, 609, 92]
+    },
+
+    {
+      "id": 17,
+      "name": "Andrés",
+      "cards": [145, 819, 3]
     }
   ]
 }
