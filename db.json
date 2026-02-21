@@ -1,0 +1,14 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "cards": [2, 6, 9]
+    },
+    {
+      "id": 2,
+      "name": "Sebastián",
+      "cards": [0, 6, 4]
+    }
+  ]
+}
